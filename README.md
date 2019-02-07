@@ -1,3 +1,4 @@
 # baikaldevclub.github.io
 
-https://github.com/bayandin/awesome-awesomeness
+## Занятные ссылочки
+- https://github.com/bayandin/awesome-awesomeness
